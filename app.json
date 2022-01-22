@@ -8,8 +8,8 @@
         "Telegram Bot",
         "Jaguar Bots"
     ],
-    "website": "https://github.com/ImJanindu",
-    "repository": "https://github.com/ImJanindu/Music-Bot",
+    "website": "https://github.com/TheManagerBot",
+    "repository": "https://github.com/TheManagerBot/Music-Bot",
     "success_url": "https://t.me/JaguarBots",
     "env": {
         "BOT_TOKEN": {
